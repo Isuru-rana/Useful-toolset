@@ -1,4 +1,4 @@
-# Python Scripts Repository
+# Useful-toolset Repository
 
 Welcome to my repository of Python scripts and programs! This repository serves as a collection of custom scripts and tools I've created to simplify various tasks and automate workflows. Each script is tailored to specific needs, and I hope they can be helpful to others as well.
 
@@ -9,14 +9,14 @@ This repository contains:
 - **Data Processing Tools**: Programs for manipulating and analyzing data.
 - **Utility Programs**: Custom utilities that make everyday computing more efficient.
 - **Miscellaneous Scripts**: Various other Python programs addressing unique challenges.
+** Some tools are not visible in here
 
 ## 📂 Folder Structure
 
 The repository is organized into subfolders based on the type or purpose of the scripts:
-- `automation/`: Scripts for automating repetitive tasks.
-- `data_processing/`: Tools for working with data.
-- `utilities/`: General-purpose utility programs.
-- `misc/`: Miscellaneous scripts that don’t fit into the other categories.
+- `images/`: Scripts for use on images based tasks.
+- `music/`: Tools for working with music data.
+- `password crack/`: password cracking tools and programs i have used.
 
 ## 🚀 How to Use
 
